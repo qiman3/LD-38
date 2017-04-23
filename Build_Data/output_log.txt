@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+    Driver:   9.17.10.4459
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.365 seconds
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\qiman3\Documents\LD 38\Build_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 6.720245 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 66.276566 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 770.
+Total: 7.749505 ms (FindLiveObjects: 0.799069 ms CreateObjectMapping: 1.001402 ms MarkObjects: 5.785554 ms  DeleteObjects: 0.160546 ms)
+
+You are dead, no big suprise!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You are dead, no big suprise!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 29.253267 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 753.
+Total: 4.693249 ms (FindLiveObjects: 0.400267 ms CreateObjectMapping: 0.608465 ms MarkObjects: 3.446994 ms  DeleteObjects: 0.234589 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2d10 -> priority: 1 
+  Thread -> id: 34f0 -> priority: 1 
